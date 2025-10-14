@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Paolo Tonelli — CV
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Location:** Santa Barbara, CA  
+**Email:** tonelli@ucsb.edu · **Phone:** +1 (805) 869-8374
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[Download PDF](/files/Tonelli_Paolo_Resume.pdf)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Visiting Research Scholar, UC Santa Barbara** — *Mar 2025 – Aug 2025*  
+- Designed an FPGA accelerator for tensorized neural networks; preliminary sims show ~3× faster inference vs CPU baselines.  
+- Investigated processor-in-memory architectures and energy–performance trade-offs.
+
+**Undergraduate Research Assistant, UC Santa Barbara** — *Mar 2024 – Aug 2024*  
+- Built a hardware-aware deep-learning framework for PDEs on resource-constrained devices using tensor compression and quantization.  
+- Achieved ~92% model size reduction with ~1.7% accuracy delta vs baseline.
+
+**Private Tutor (Math, Physics, Latin)** — Sicily/Padua, Italy — *Sep 2021 – Aug 2023*
+
+### Education
+
+**M.S., Computer Engineering — UC Santa Barbara** — *Sep 2025 – Dec 2026*  
+**Exchange Abroad — UC Santa Barbara** — *Sep 2023 – Jun 2024* (GPA 3.61/4.00)  
+**B.S., Electrical Engineering — University of Padua** — *Sep 2021 – Nov 2024* — *110/110 cum Laude*  
+Earlier medical-school coursework included biophysics, molecular biology, chemistry, anatomy, physiology.
+
+### Skills & Languages
+
+- **Hardware/HDL:** SystemVerilog, VHDL  
+- **Software:** Python, C  
+- **English:** Fluent (IELTS 8.5/9.0, CEFR C2) · **Italian:** Native
+
+### Volunteering & Interests
+
+**UCSB Excursion Club — Staff Member**  
+- Organized backpacking/camping trips (routes, permits, transportation/gear, safety).
