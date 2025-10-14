@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Paolo Tonelli"
 title_separator          : "-"
 name                     : &name "Paolo Tonelli"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Paolo Tonelli"
   pronouns         : # example: "she/her"  
-  bio              : "MSc Student in Computer Engineering"
+  bio              : "MSc Student in Computer Engineering @ UCSB"
   location         : "Santa Barbara, CA"
   employer         : "UC Santa Barbara"
   uri              : # URL
@@ -61,7 +61,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "@paolo_tone" # Username
+  instagram        : "paolo_tone" # Username
   lastfm           : # Username
   linkedin         : "paolo-tonelli-0685832aa" # Username
   mastodon         : # URL
