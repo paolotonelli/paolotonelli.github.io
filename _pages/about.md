@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Paolo Tonelli
+# Paolo Tonelli
 
 I’m an M.S. student in Computer Engineering at **UC Santa Barbara (UCSB)**, working on hardware acceleration for scientific machine learning. My research focuses on **FPGA-based inference accelerators**, **tensor-train (TT)–compressed neural operators** (e.g., DeepONet/FNO), and **fault-tolerant/robust** ML under quantization and resource constraints.
 
