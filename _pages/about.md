@@ -39,7 +39,7 @@ Over time, I’ll turn this into a living section with short blog posts—meal-p
 ---
 
 ### Contact & links
-- Email: `tonelli [at] ucsb [dot] edu`  
-- [GitHub](#) · [LinkedIn](https://www.linkedin.com/in/paolo-tonelli-0685832aa/) · [Resume (PDF)](/files/Tonelli_Paolo_Resume.pdf)
+- Email: `tonelli [at] ucsb [dot] edu`
+- Phone: `(805) 869-8374`
 
 ---
